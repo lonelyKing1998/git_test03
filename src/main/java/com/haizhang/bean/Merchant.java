@@ -7,5 +7,8 @@ package com.haizhang.bean;
  * @create 2019-02-21 20:53
  */
 public class Merchant {
+
     private String name;
+    //############made by git_test04##################
+    private int age;
 }
